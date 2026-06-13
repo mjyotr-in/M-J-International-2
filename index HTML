@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Global Export Import Company</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Global Export Import Co.</h1>
+    <p>Trusted Trade Partner Worldwide</p>
+</header>
+
+<nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#products">Products</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="home">
+    <h2>Welcome</h2>
+    <p>We deal in global export and import services with trusted supply chains.</p>
+</section>
+
+<section id="about">
+    <h2>About Us</h2>
+    <p>We are a trading company specializing in international export and import of goods.</p>
+</section>
+
+<section id="products">
+    <h2>Products</h2>
+    <ul>
+        <li>Spices</li>
+        <li>Textiles</li>
+        <li>Machinery</li>
+        <li>Agricultural Products</li>
+    </ul>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: info@yourcompany.com</p>
+    <p>Phone: +91-XXXXXXXXXX</p>
+</section>
+
+<footer>
+    <p>© 2026 Global Export Import Co.</p>
+</footer>
+
+</body>
+</html>
+body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #0a3d62;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+nav {
+    background: #1e5f74;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background: #0a3d62;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
